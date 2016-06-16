@@ -1,0 +1,16 @@
+{
+  "title": "Zipidy Screen Sharing",
+  "name": "zipidy-screen-sharing",
+  "id": "collab.zipidy.screensharing@zipidy.co.uk",
+  "version": "1.0.2",
+  "description": "This firefox extension enables screen sharing support in Firefox for https://collab.zipidy.co.uk pages.",
+  "main": "index.js",
+  "author": "Soumya Biswas <soumyabiswas@indusnet.co.in>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "permissions": {
+    "unsafe-content-script": true
+  }
+}
